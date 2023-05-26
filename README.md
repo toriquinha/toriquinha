@@ -5,4 +5,5 @@
 - You can reach me in my discord -‘๑’- jembiribas#5783
 - I'm currently learning HTML and CSS 
 - Pronouns: They/Them (Ele/Ela)
+
 ᴄᴏᴍᴘʟᴇᴛᴇ!
