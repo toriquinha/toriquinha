@@ -1,5 +1,6 @@
 ## Yahallo! I'm Tori :>
 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS (1º semestre) 
+<br>
 E-mail para contato: piccolitori@gmail.com
 <h3>Linguagens e Tecnologias </h3>
 <div style="display: inline_block"><br>
